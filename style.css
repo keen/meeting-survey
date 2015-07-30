@@ -12,6 +12,9 @@ body {
 form {
   margin-left: 40%;
 }
+#thanks {
+  text-align: center;
+}
 a#big-logo img {
   width: 75%;
   height:auto;
