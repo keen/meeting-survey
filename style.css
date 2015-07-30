@@ -1,0 +1,26 @@
+body {
+  margin:0;
+  padding:0;
+}
+#title {
+  margin-left: 40%;
+  margin-top: 100px;
+}
+#stats {
+  text-align: center;
+}
+form {
+  margin-left: 40%;
+}
+a#big-logo img {
+  width: 75%;
+  height:auto;
+  margin-left: 10%;
+}
+#logo {
+  margin-left: 40%;
+}
+#logo a img {
+  width:200px;
+  height:auto;
+}
